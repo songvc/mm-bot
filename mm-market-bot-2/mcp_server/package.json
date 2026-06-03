@@ -1,0 +1,10 @@
+{
+  "name": "cuda-mm-bot-mcp",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "server.js",
+  "dependencies": {
+    "fastmcp": "^3.0.0",
+    "zod": "^3.23.0"
+  }
+}
