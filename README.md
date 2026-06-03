@@ -1,5 +1,3 @@
-Here is the complete, raw markdown code for the README.md file. It includes proper formatting, structure, and code blocks ready to be copied and pasted directly into your project.
-Markdown
 
 # 🤖 High-Frequency Market Making Bot (C++ with MCP Node Bindings)
 
